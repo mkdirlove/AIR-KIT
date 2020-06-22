@@ -1,4 +1,5 @@
 # AIR-KIT
+# <img src="https://img.shields.io/badge/MADE%20WITH-BASH-yellowgreen"> <img src="https://img.shields.io/badge/POWERED%20BY:-AIRCRACK-NG ,-REAVER- ,WASH-yellowgreen"> <img src="https://img.shields.io/badge/VERY%20USER-FRIENDLY-yellowgreen">
 # 
 A easy shell script which combine such as: aircrack-ng , reaver and wash to make WPA/WPA2/WPS cracking easier.
 #
@@ -8,9 +9,13 @@ Were planning to make a tool that is suitable for Termux.
 # INSTALLATION
 #
 `$ git clone https://github.com/mkdirlove/AIR-KIT.git`
+
 `$ cd AIR-KIT`
+
 `$ chmod +x air-kit.sh`
+
 `$ ./air-kit.sh -h`
+
 `$ ./air-kit.sh`
 #
 # PREVIEW
