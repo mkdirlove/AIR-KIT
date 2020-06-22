@@ -1,5 +1,5 @@
 # AIR-KIT
-# <img src="https://img.shields.io/badge/MADE%20WITH-BASH-yellowgreen"> <img src="https://img.shields.io/badge/POWERED%20BY:-AIRCRACK-NG ,-REAVER- ,WASH-yellowgreen"> <img src="https://img.shields.io/badge/VERY%20USER-FRIENDLY-yellowgreen">
+# <img src="https://img.shields.io/badge/MADE%20WITH-BASH-yellowgreen"> <img src="https://img.shields.io/badge/VERY%20USER-FRIENDLY-yellowgreen">
 # 
 A easy shell script which combine such as: aircrack-ng , reaver and wash to make WPA/WPA2/WPS cracking easier.
 #
