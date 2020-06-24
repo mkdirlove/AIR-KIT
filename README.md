@@ -3,8 +3,19 @@
 # 
 A easy shell script which combine such as: aircrack-ng , reaver and wash to make WPA/WPA2/WPS cracking easier.
 #
-Sorry, this version is currently not available for Termux users.
-Were planning to make a tool that is suitable for Termux.
+THIS TOOL IS NOW AVAILABLE FOR TERMUX USERS :)
+#
+# INSTALLATION FOR TERMUX
+#
+`$ git clone https://github.com/mkdirlove/AIR-KIT.git`
+
+`$ cd AIR-KIT`
+
+`$ chmod +x *`
+
+`$ ./termux-air-kit.sh -h`
+
+`$ ./termux-air-kit.sh`
 #
 # INSTALLATION
 #
@@ -21,3 +32,6 @@ Were planning to make a tool that is suitable for Termux.
 # PREVIEW
 #
 ![FIRST RUN OF MY TOOL](https://github.com/mkdirlove/AIR-KIT/blob/master/5.png)
+#
+![FIRST RUN OF MY TOOL](https://github.com/mkdirlove/AIR-KIT/blob/master/termux.png)
+# 
