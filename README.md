@@ -31,7 +31,9 @@ THIS TOOL IS NOW AVAILABLE FOR TERMUX USERS :)
 #
 # PREVIEW
 #
-![FIRST RUN OF MY TOOL](https://github.com/mkdirlove/AIR-KIT/blob/master/5.png,https://github.com/mkdirlove/AIR-KIT/blob/master/termux.png)
+![FIRST RUN OF MY TOOL](https://github.com/mkdirlove/AIR-KIT/blob/master/air.gif)
+#
+![FIRST RUN OF MY TOOL](https://github.com/mkdirlove/AIR-KIT/blob/master/5.png)
 #
 ![FIRST RUN OF MY TOOL](https://github.com/mkdirlove/AIR-KIT/blob/master/termux.png)
 # 
