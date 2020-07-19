@@ -1,17 +1,8 @@
+#!/usr/bin/bash
+
 # CODED BY: JASYON CABRILLAS SAN BUENAVENTURA
 # FACEBOOK: https://web.facebook.com/mkdirlove.git
 # GITHUB  : https://githib.com/mkdirlove
-
-#!/usr/bin/bash
-
-# Wireless Network Crack script # Base on arodump, airplay & aricrack 
-# Require aircrack-ng, macchanger, reaver, wash
-
-# Test On:
-#	1.7.0
-#	Aircrack-ng 1.3
-#	Reaver v1.6.5
-#	Wash v1.6.5
 
 # Restart network interface:
 # 	ifconfig <interface> down
